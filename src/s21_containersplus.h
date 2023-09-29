@@ -1,0 +1,7 @@
+#ifndef CPP_S21_CONTAINERS_S21_CONTAINERSPLUS_H
+#define CPP_S21_CONTAINERS_S21_CONTAINERSPLUS_H
+
+#include "s21_array.hpp"
+#include "s21_multimap.hpp"
+
+#endif  // CPP_S21_CONTAINERS_S21_CONTAINERSPLUS_H
